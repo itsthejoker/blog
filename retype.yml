@@ -1,11 +1,17 @@
 input: posts/
 output: .retype
-url: https://blog.filamentcolors.xyz
+url: https://blog.joekaufeld.com
 branding:
-  title: FilamentColors.xyz
+  title: Joe Kaufeld
   label: Blog
 links:
+- text: Contact
+  link: https://joekaufeld.com
 - text: filamentcolors.xyz
   link: https://filamentcolors.xyz
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+edit:
+  repo: "https://github.com/itsthejoker/blog"
+meta:
+  title: " | Joe Kaufeld"

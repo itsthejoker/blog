@@ -1,15 +1,17 @@
 ---
+order: 400
 author:
   name: Joe Kaufeld
   link: https://twitter.com/filamentcolors
 date: 2020-07-24T03:38:26
 ---
-
-# What is 3D Printing and what is a 3D Printer?
+# Intro to 3D Printing, Part 1
 
 There's a lot of information about 3D printing as a hobby, but what does that all boil down to? What do you need to get started? What do you need to know before bringing a printer into your house? What kinds are there?
 
 The goal of this series isn't to be an all-encompassing introduction; mostly, we'll touch on the core concepts and give you terms and ideas that you can research later.
+
+## What is 3D Printing and what is a 3D Printer?
 
 You already know about printing on paper. 3D printing is a lot like that, but the result is a physical thing rather than text on a page. Instead of ink, a 3D printer uses plastic; instead of reproducing the text on a computer screen, a 3D printer reproduces a digital model that you process and download to it.
 
@@ -38,7 +40,7 @@ The most common type is one that melts strands of plastic about the diameter of 
 There are a lot of different options with what type of printer to use and what kind of material to use -- like types of fabric, there are hundreds of choices. For this, we'll only focus on the most common options.
 !!!
 
-# What You Need
+## What You Need
 
 To get started with 3D printing, you'll need a handful of things:
 
@@ -93,8 +95,8 @@ The printer itself is where the magic happens -- where everything finally combin
 
 To achieve this, the 3D printer uses specialized heaters to melt the filament to very small widths and carefully deposit it onto a build plate (usually glass or another material) so that it can build upwards by putting down more layers of plastic down. Layer by layer, very slowly, an object is built up from the build plate. This process usually takes a long time; even small objects can take much longer than expected. Most small prints can be accomplished in 30 minutes to an hour; it's not uncommon for prints to take two, four, or even 24 hours to complete depending on the size and level of detail.
 
-# Wrapping Up
+## Wrapping Up
 
 In this post, we've covered some core concepts of 3D printing; what 3D printing actually looks like and what it entails. Next week, we'll go over the next steps: the stuff you need to know and what you need to do before buying a 3D printer.
 
-If you have any questions or comments, [find me on Twitter at @filamentcolors!](https://twitter.com/filamentcolors)
+If you have any questions or comments, [find me on Twitter: @filamentcolors](https://twitter.com/filamentcolors).

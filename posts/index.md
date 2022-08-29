@@ -1,3 +1,3 @@
-# hi
+# Home
 
-this is an index page
+Hi, my name is Joe. This is the little spot where I put projects and writeups of different things.
