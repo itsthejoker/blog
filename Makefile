@@ -1,2 +1,5 @@
 docs:
-	node_modules/.bin/retype watch
+	mkdocs serve
+
+build:
+	mkdocs build
