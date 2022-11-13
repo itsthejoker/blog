@@ -10,9 +10,9 @@ The first thing, even before which printer to get, is "where will it go"? A bedr
 
 Filament is an even bigger question; though each roll isn't that big, it's easy to eventually wind up with more than expected. Some people opt for storage in closets or cabinets, while others opt for wall-mounted solutions that allow different spools to be easily grabbed. Below are some examples that show how much room this can take up!
 
-![An example of closet-based storage](../static/images/closet-based-storage.jpg) 
+![An example of closet-based storage](../../static/images/closet-based-storage.jpg) 
 
-![An example of wall-mounted storage](../static/images/wall-based-storage.jpg) 
+![An example of wall-mounted storage](../../static/images/wall-based-storage.jpg) 
 
 ### 3D Printers and Pets (or Little Humans)
 

@@ -28,13 +28,13 @@ This is also a great reason to look into a 3D printer that has a removable, flex
 
 Running a 3D printer is an inexact science. Sometimes parts don't stick to the build plate; sometimes the nozzle will jam; sometimes things won't move the way that they should. It's not just you -- it's something that literally everyone deals with in this hobby. Sometimes it will take several tries before you get a result that you're happy with, and that may require tweaking the physical printer or the settings in your slicer program.
 
-![Most of the time, print failures don't get very far! Image thanks to @tgibriday](../static/images/printfail1.jpeg) 
+![Most of the time, print failures don't get very far! Image thanks to @tgibriday](../../static/images/printfail1.jpeg) 
 
 The best way to approach this when it happens is to clean up the plastic spaghetti and try again. It's important to watch at least the first layer get printed, as most failures will happen at this time. There are many, many different things that could be wrong (nozzle too close to the bed, nozzle too far away from the bed, wrong temperatures, oil on the build surface, etc.) It's also a great idea to check on things occasionally just to make sure that it's still trundling along.
 
-![Sometimes they're a bit more effort to clean up -- this one wasn't caught for several hours. Image thanks to @uncommonparts](../static/images/printfail2.jpeg) 
+![Sometimes they're a bit more effort to clean up -- this one wasn't caught for several hours. Image thanks to @uncommonparts](../../static/images/printfail2.jpeg) 
 
-![This particular print failed sometime during the night!](../static/images/printfail3.jpg) 
+![This particular print failed sometime during the night!](../../static/images/printfail3.jpg) 
 
 Sometimes failures trend more towards "crap, it's broken" levels -- and that's okay too! That's where the tinkering comes in, because there are very few issues that are not fixable. That's part of the fun!
 
