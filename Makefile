@@ -1,5 +1,5 @@
 docs:
-	mkdocs serve
+	hugo server -D
 
 build:
 	mkdocs build
