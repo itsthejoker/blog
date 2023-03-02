@@ -5,8 +5,8 @@ isoCode = "en"
 weight = 1
 rtl = false
 
-title = "Joe Kaufeld - Projects & More"
-# description = "My awesome website"
+title = "Joe Kaufeld"
+description = "Personal writing, projects, and thoughts galore."
 copyright = "All rights reserved."
 
 dateFormat = "2 January 2006"
